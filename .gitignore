@@ -1,0 +1,6 @@
+# Ignore all .cast files
+*.cast
+# Ignore all .pickle files
+*.pickle
+# do not ignore .py files
+!*.py
